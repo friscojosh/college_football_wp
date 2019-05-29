@@ -1,2 +1,2 @@
-# college_football_wp
-Win Probability model and play level data for 2001-2018
+# College Football Win Probability
+Win Probability model and play level data covering 2001-2018
